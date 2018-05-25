@@ -1,0 +1,15 @@
+{
+  "name": "casper-blog-old-style-edited",
+  "description": "Old layout of Casper <1.0.0 for Ghost >1.0.0",
+  "version": "1.0.0",
+  "engines": {
+    "ghost": ">=1.0.0"
+  },
+  "license": "MIT",
+  "author": {
+      "email": "magic@kthx.at"
+  },
+  "config": {
+      "posts_per_page": 5
+  }
+}
